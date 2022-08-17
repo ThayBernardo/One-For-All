@@ -17,27 +17,14 @@ Utilização de queries SQL para acessar informações desta tabela.
 # Features
 
 - [x] Criação do banco de dados.
-- [x] Exibe 3 colunas renomeando elas.
-<br />
-    Sendo elas:
-<br />
-     - Exibir a quantidade total de canções.
-<br />
-     - Exibir a quantidade total de artistas.
-<br />
-     - Exibir a quantidade de álbuns
-<br />
+- [x] Quantidade total de canções.
+- [x] Quantidade total de artistas.
+- [x] Quantidade de álbuns.
 - [x] QUERY que deverá ter apenas três colunas.
-<br />
-    Sendo elas: 
-<br />
-     - Exibir o nome da pessoa usuária.
-<br />
-     - Exibir a quantidade de músicas ouvida pela pessoa com base no seu histórico de reprodução.
-<br />
-     - Exibir a soma dos minutos ouvidos pela pessoa usuária com base no seu histórico de reprodução.
-<br />
-- [x] Mostrar as pessoas usuárias que estavam ativas no ano de 2021 se baseando na data mais recente no histórico de reprodução.
+- [x] Nome da pessoa usuária.
+- [x] Quantidade de músicas ouvida pela pessoa com base no seu histórico de reprodução.
+- [x] Soma dos minutos ouvidos pela pessoa usuária com base no seu histórico de reprodução.
+[x] Mostrar as pessoas usuárias que estavam ativas no ano de 2021 se baseando na data mais recente no histórico de reprodução.
 - [x] Quais são as duas músicas mais tocadas no momento.
 - [x] Informações sobre o faturamento da empresa.
 - [x] Todos os álbuns produzidos por cada pessoa artista, com a quantidade de seguidores que ela possui.
