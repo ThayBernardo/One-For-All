@@ -31,6 +31,7 @@ Utilização de queries SQL para acessar informações desta tabela.
      - Exibir o nome da pessoa usuária.
      - Exibir a quantidade de músicas ouvida pela pessoa com base no seu histórico de reprodução.
      - Exibir a soma dos minutos ouvidos pela pessoa usuária com base no seu histórico de reprodução.
+<br />
 - [x] Mostrar as pessoas usuárias que estavam ativas no ano de 2021 se baseando na data mais recente no histórico de reprodução.
 - [x] Quais são as duas músicas mais tocadas no momento.
 - [x] Informações sobre o faturamento da empresa.
