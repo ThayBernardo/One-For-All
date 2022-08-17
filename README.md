@@ -18,6 +18,7 @@ Utilização de queries SQL para acessar informações desta tabela.
 
 - [x] Criação do banco de dados.
 - [x] Exibe 3 colunas renomeando elas.
+<br />
     Sendo elas:
 <br />
      - Exibir a quantidade total de canções.
@@ -31,7 +32,9 @@ Utilização de queries SQL para acessar informações desta tabela.
     Sendo elas: 
 <br />
      - Exibir o nome da pessoa usuária.
+<br />
      - Exibir a quantidade de músicas ouvida pela pessoa com base no seu histórico de reprodução.
+<br />
      - Exibir a soma dos minutos ouvidos pela pessoa usuária com base no seu histórico de reprodução.
 <br />
 - [x] Mostrar as pessoas usuárias que estavam ativas no ano de 2021 se baseando na data mais recente no histórico de reprodução.
