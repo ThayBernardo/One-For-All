@@ -22,8 +22,11 @@ Utilização de queries SQL para acessar informações desta tabela.
     Sendo elas:
 <br />
      - Exibir a quantidade total de canções.
+<br />
      - Exibir a quantidade total de artistas.
+<br />
      - Exibir a quantidade de álbuns
+<br />
 - [x] QUERY que deverá ter apenas três colunas.
 <br />
     Sendo elas: 
