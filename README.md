@@ -18,7 +18,6 @@ Utilização de queries SQL para acessar informações desta tabela.
 
 - [x] Criação do banco de dados.
 - [x] Exibe 3 colunas renomeando elas.
-<br />
     Sendo elas:
 <br />
      - Exibir a quantidade total de canções.
